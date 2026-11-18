@@ -1,0 +1,13 @@
+# Grote bronbestanden (DOCX, PPTX, XLSX, ZIP, PDF) — niet in git
+00_Sources/*.docx
+00_Sources/*.pptx
+00_Sources/*.xlsx
+00_Sources/*.zip
+00_Sources/*.pdf
+00_Sources/*.txt
+
+# Obsidian systeem
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+.obsidian/.cache
