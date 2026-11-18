@@ -1,10 +1,12 @@
 ---
-type: activity
-code:
-proces: AS-IS Space Planning (terminal)
+type: process
+niveau: L2
+naam: Space Planning (terminal)
 status: draft
-sop:
-wi:
+process_owner: "[[APM]]"
+process_lead: BD APM
+turtle_bron: "[[00_Sources/Space Planning Turtle.pptx]]"
+turtle_versie: 28/04/2026
 eigenaar: "[[APM]]"
 laatst_bijgewerkt: 2026-11-18
 ---
@@ -26,10 +28,10 @@ Vraag naar capaciteitsanalyse of ruimteplanning op basis van forecasts en busine
 - Stakeholdervereisten: airlines, ground handlers, grenspolitie, douane, concessiehouders
 ([[00_Sources/Space Planning Turtle.pptx]])
 
-## Stappen
+## Activiteiten
 
-| # | Stap | Wie | Tool |
-|---|------|-----|------|
+| # | Activiteit | Wie | Tool |
+|---|-----------|-----|------|
 | 1 | Space use change (client oriented) | [[Commercial Lead]] | Outlook, telefoon |
 | 2 | Ingaande/uitgaande [[PLB]] | [[Commercial Lead]] | |
 | 3 | Data registration (welke klant is waar?) | [[Commercial Lead]] | [[Airport View]] |
@@ -56,10 +58,13 @@ Vraag naar capaciteitsanalyse of ruimteplanning op basis van forecasts en busine
 
 ## RACI
 
-| Stap | Responsible | Accountable | Consulted | Informed |
-|------|-------------|-------------|-----------|---------|
+| Activiteit | Responsible | Accountable | Consulted | Informed |
+|-----------|-------------|-------------|-----------|---------|
 | 1–6 | [[Commercial Lead]] | [[APM]] | | |
 | 7–8 | [[Property Manager]] | n.t.b. | | |
+
+## Controls
+n.t.b. ([[00_Sources/Space Planning Turtle.pptx]])
 
 ## Tools
 - [[Airport View]] — ruimte-inventaris

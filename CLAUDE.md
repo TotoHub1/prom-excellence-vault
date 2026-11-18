@@ -6,7 +6,8 @@ Goal: analyse many sources and produce aligned process documentation (L2 turtles
 
 ## Folder structure
 - `00_Sources/` — raw input (meeting notes, atelier verslagen, mails, exports, existing SOP/WI). NEVER edit.
-- `10_Activities/` — one note per activity (e.g. `3Y0 Monitoren verplichtingen.md`)
+- `05_Processes/` — one note per BAC L2 process (turtle-level: input, activiteiten, output, controls, KPIs). No SOP/WI content.
+- `10_Activities/` — one note per activity (e.g. `3Y0 Monitoren verplichtingen.md`); each activity belongs to exactly one process
 - `20_Roles/` — one note per role (PROM, APM, Property Officer, E&C, HIF Back Office, ...)
 - `30_Tools/` — one note per system/template (Forma, Maximo, AMR SharePoint, compliance-register, ...)
 - `40_Glossary/` — one note per term; the single source for wording
@@ -26,7 +27,24 @@ Goal: analyse many sources and produce aligned process documentation (L2 turtles
 7. WI step tables have no "Verwacht resultaat" column.
 8. Before changing many files, show a short plan and wait for my go.
 
-## Frontmatter (activity note)
+## Frontmatter (process note, `05_Processes/`)
+```yaml
+---
+type: process
+niveau: L2
+naam: Asset Modification Request Handling
+status: draft        # draft | atelier | gevalideerd
+process_owner: "[[Sr Process Manager AMCC]]"
+process_lead: BD/ED PROM
+turtle_bron: "[[00_Sources/xxx Turtle.pptx]]"
+turtle_versie: dd/mm/yyyy
+eigenaar: "[[Role]]"
+laatst_bijgewerkt: 2026-11-18
+---
+```
+Sections: Doel · Trigger · Input · Activiteiten · Output · RACI · Controls · Tools · KPI's · Raakvlakken · Open punten · Bronnen
+
+## Frontmatter (activity note, `10_Activities/`)
 ```yaml
 ---
 type: activity

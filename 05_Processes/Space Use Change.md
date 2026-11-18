@@ -1,11 +1,13 @@
 ---
-type: activity
-code:
-proces: Space Use Change
+type: process
+niveau: L2
+naam: Space Use Change
 status: draft
-sop:
-wi:
-eigenaar: "[[Property Manager]]"
+process_owner: "[[Sr Process Manager AMCC]]"
+process_lead: BD/ED PROM
+turtle_bron: "[[00_Sources/Space Use Change Turtle New.pptx]]"
+turtle_versie: 15/06/2026
+eigenaar: "[[Sr Process Manager AMCC]]"
 laatst_bijgewerkt: 2026-11-18
 ---
 
@@ -25,13 +27,13 @@ Ruimteaanvraag of ruimtewijziging van: externe klant, BLO Tender, AM Klant, IT K
 - Beleids- en classificatieregels
 ([[00_Sources/Space Use Change Turtle New.pptx]])
 
-## Stappen
+## Activiteiten
 
-| # | Stap | Wie | Tool |
-|---|------|-----|------|
-| 1 | Terminal Space Management | [[PROM]] | [[Airport View]] |
-| 2 | Ingaande of uitgaande [[PLB]] & sleuteloverdracht | [[PROM]] | [[AM Request]] |
-| 3 | Patrimonium Data Beheer | [[PROM]], [[Data Clerk]], [[BIM Office]] | [[Airport View]] |
+| # | Activiteit | Wie | Tool |
+|---|-----------|-----|------|
+| 1 | [[Terminal Space Management]] | [[PROM]] | [[Airport View]] |
+| 2 | [[Plaatsbeschrijving]] (ingaande of uitgaande [[PLB]] & sleuteloverdracht) | [[PROM]] | [[AM Request]] |
+| 3 | [[Patrimonium Data Beheer]] | [[PROM]], [[Data Clerk]], [[BIM Office]] | [[Airport View]] |
 
 ([[00_Sources/Space Use Change Turtle New.pptx]])
 
@@ -48,10 +50,13 @@ Ruimteaanvraag of ruimtewijziging van: externe klant, BLO Tender, AM Klant, IT K
 
 ## RACI
 
-| Stap | Responsible | Accountable | Consulted | Informed |
-|------|-------------|-------------|-----------|---------|
+| Activiteit | Responsible | Accountable | Consulted | Informed |
+|-----------|-------------|-------------|-----------|---------|
 | 1–3 | [[PROM]] | n.t.b. | [[Commercial Lead]], [[APM]] | |
 | 3 | [[PROM]], [[Data Clerk]], [[BIM Office]] | n.t.b. | | |
+
+## Controls
+n.t.b. ([[00_Sources/Space Use Change Turtle New.pptx]])
 
 ## Tools
 - [[Airport View]] — primair systeem ruimtelijke data
@@ -65,12 +70,12 @@ Ruimteaanvraag of ruimtewijziging van: externe klant, BLO Tender, AM Klant, IT K
 
 ## KPI's
 Alle KPI's beschreven maar **niet actief**. ([[00_Sources/Space Use Change Turtle New.pptx]])
-- Patrimonium Data Beheer: Tijdigheid, Volledigheid, Correctiegraad bij follow-up-controles
+- [[Patrimonium Data Beheer]]: Tijdigheid, Volledigheid, Correctiegraad bij follow-up-controles
 - [[PLB]]: Overall Lead Time, Volume, Workload Distribution
 
 ## Raakvlakken
 - [[Space Planning Terminal]]
-- [[AMR Handling]]
+- [[Asset Modification Request Handling]]
 - BIM Office (geometrie & feature checks)
 - GIS Team
 
