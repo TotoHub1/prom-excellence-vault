@@ -81,7 +81,7 @@ Continu bewaken dat gebruikers en BAC als Eigenaar hun contractuele en wettelijk
 - PRM.1.1 — compliance-score gebruiker als input evaluatie
 
 ## Open punten
-- Turtle / L2-procesdiagram n.t.b. — zie [[60_OpenItems/OI-013 Turtle Property Operations Compliance Control]]
+- Turtle / L2-procesdiagram n.t.b. — zie [[60_OpenItems/OI-014 Turtle Property Operations Compliance Control]]
 - Process Owner en Process Lead n.t.b.
 - Herinneringstermijn n.t.b. — zie [[60_OpenItems/OI-007 Herinneringstermijn compliance-register]]
 - Zie [[60_OpenItems/OI-012 PRM11 definitie compliance-score]]

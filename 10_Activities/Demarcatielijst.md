@@ -71,7 +71,9 @@ Per gebouw vastleggen wie (Maatschappij of Eigenaar/BAC) verantwoordelijk is voo
 
 **Gemeenschappelijke delen (MU):** beheer (onderhoud, herstelling, vervanging, eigendom) steeds bij de Eigenaar (BAC). Kosten worden doorgerekend via rechargemechanisme. ([[00_Sources/AM-PROM-411 Template demarcatielijst.xlsx]])
 
-## Hoofdstukken standaard demarcatielijst (15)
+## Hoofdstukken standaard demarcatielijst
+
+> POL AM-PROM-400 spreekt van **16 thema's**; XLSX AM-PROM-411 bevat **15 hoofdstukken**. Zie [[70_Conflicts/CONF-006 Aantal thema's demarcatielijst]].
 
 | Nr | Hoofdstuk |
 |----|-----------|
@@ -105,10 +107,28 @@ n.t.b.
 - [[Compliance Breach Logging]] — bij contractuele inbreuk
 - [[Space Use Change]] — bij contractwijziging
 
+## Beleidsregels (AM-PROM-400 POL) ([[00_Sources/AM-PROM-400 POL Demarcatielijst.docx]])
+
+**Verantwoordelijkheden vangen aan** bij start overeenkomst (overdracht sleutels).
+
+**Fit-out door Maatschappij:** Maatschappij verantwoordelijk voor herkeuren van aangepaste situatie en aanleveren keuringsattesten aan [[Property Manager]] van de Eigenaar (via e-mail).
+
+**Wangedrag / nalatigheid:** Indien preventief onderhoud en/of herstelling niet op tijd of adequaat is uitgevoerd door de Maatschappij en bijgevolg niet meer herstelbaar is of de gevolgen vergroot zijn, worden de kosten verhaald op de Maatschappij. Schade door toedoen of extreem gebruik door de Maatschappij blijft steeds voor haar rekening.
+
+**Bij einde overeenkomst:** [[Plaatsbeschrijving]] (uittrede) om te bepalen of Maatschappij het gebouw terugbrengt in de oorspronkelijke staat bij ingebruikname. Eigenaar kan kiezen om wijzigingen kosteloos over te nemen of de Maatschappij te verplichten ze te verwijderen.
+
+**In ontwikkeling (AM-PROM-400 POL §5):**
+- Toepassen standaard demarcatielijst — n.t.b.
+- Afwijken van de standaard demarcatielijst — n.t.b.
+- Wijzigen van de demarcatielijst — n.t.b.
+
 ## Open punten
-n.t.b.
+- Zie [[70_Conflicts/CONF-006 Aantal thema's demarcatielijst]] — 15 (XLSX) vs 16 (POL)
+- Toepassen/afwijken/wijzigen standaard demarcatielijst — n.t.b. in AM-PROM-400 POL §5
+- Verantwoordelijkheden (Policy Accountable) — n.t.b. in AM-PROM-400 POL §6
 
 ## Bronnen
 - ([[00_Sources/AM-PROM-411 Template demarcatielijst.xlsx]]) — template demarcatielijst, eigenaar: Senior Process Manager AM Customer Care
-- ([[00_Sources/AM-PROM-400 POL Demarcatielijst.pdf]]) — Policy, eigenaar: Senior Process Manager AM Customer Care
-- ([[00_Sources/AM-PROM-410 PRO Toepassen demarcatie template.pdf]]) — Process Flow toepassen demarcatielijst-template, versie 25/06/2025, Ben Mariën
+- ([[00_Sources/AM-PROM-400 POL Demarcatielijst.docx]]) — Policy, eigenaar: Senior Process Manager AM Customer Care
+- ([[00_Sources/AM-PROM-400 POL Demarcatielijst.pdf]]) — PDF-versie zelfde POL
+- ([[00_Sources/AM-PROM-410 PRO Toepassen demarcatie template.docx]]) — Process Flow, versie 25/06/2025, Ben Mariën (rollen/KPI/bewaking n.t.b.)
