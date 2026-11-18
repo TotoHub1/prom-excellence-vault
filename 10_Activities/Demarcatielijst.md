@@ -12,7 +12,22 @@ laatst_bijgewerkt: 2026-11-18
 # Demarcatielijst — Toepassen demarcatie template
 
 ## Doel
-Per gebouw vastleggen wie (Maatschappij of Eigenaar/BAC) verantwoordelijk is voor de uitvoering, betaling en eigendom van onderhoud, herstelling en vervanging van elk onderdeel van de infrastructuur. ([[00_Sources/AM-PROM-411 Template demarcatielijst.xlsx]])
+Per gebouw vastleggen wie (Maatschappij of Eigenaar/BAC) verantwoordelijk is voor de uitvoering, betaling en eigendom van onderhoud, herstelling en vervanging van elk onderdeel van de infrastructuur. De demarcatielijst maakt onlosmakelijk deel uit van het contract en legt op gestructureerde wijze de verdeling van verantwoordelijkheden vast. ([[00_Sources/AM-PROM-400 POL Demarcatielijst.pdf]])
+
+## Definities ([[00_Sources/AM-PROM-400 POL Demarcatielijst.pdf]])
+
+| Term | Definitie |
+|------|-----------|
+| Maatschappij | De partij aan wie het gebouw ter beschikking wordt gesteld en met wie contractuele afspraken gemaakt worden over verantwoordelijkheden |
+| Single user (SU) | Gebouw waarbij slechts 1 partij gebruik maakt van het gebouw |
+| Multi user (MU) | Gebouw waarbij meer dan 1 partij gebruik maakt van het gebouw |
+| Eigenaar | BAC (en legale entiteiten/verbonden vennootschappen) als eigenaar van de gebouwen |
+| Onderhoud | Preventief uitvoeren van reinigingen en werkzaamheden op vooraf bepaalde tijd, conform wettelijke eisen, normering en leveranciersvoorschriften |
+| Herstelling | Na vastgesteld disfunctioneren of schade: herstelwerkzaamheden uitvoeren ter voorkoming van vervanging |
+| Vervanging | Indien onderhoud/herstelling niet meer volstaat, of levensduur bereikt, of installatie faalt binnen waarborgperiode |
+| Eigendom | Aanduiding aan welke partij de bouwkundige en installatietechnische onderdelen toebehoren |
+| Uitvoering | Aanduiding wie verantwoordelijk is voor de uitvoering van onderhoud, herstelling en vervanging |
+| Betaling | Aanduiding welke partij het onderhoud, herstelling en vervanging betaalt |
 
 ## Trigger
 - Nieuw contract of gebouw: demarcatielijst opstellen voor die Maatschappij
@@ -95,5 +110,5 @@ n.t.b.
 
 ## Bronnen
 - ([[00_Sources/AM-PROM-411 Template demarcatielijst.xlsx]]) — template demarcatielijst, eigenaar: Senior Process Manager AM Customer Care
-- POL ([[00_Sources/AM-PROM-400 POL Demarcatielijst.pdf]]) — PDF niet leesbaar
-- PRO ([[00_Sources/AM-PROM-410 PRO Toepassen demarcatie template.pdf]]) — PDF niet leesbaar
+- ([[00_Sources/AM-PROM-400 POL Demarcatielijst.pdf]]) — Policy, eigenaar: Senior Process Manager AM Customer Care
+- ([[00_Sources/AM-PROM-410 PRO Toepassen demarcatie template.pdf]]) — Process Flow toepassen demarcatielijst-template, versie 25/06/2025, Ben Mariën
